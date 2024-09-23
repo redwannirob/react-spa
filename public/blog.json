@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "author": "Jane Doe",
+        "author_img": "../src/assets/images/boy1.png",
+        "cover": "../src/assets/images/1.jpg",
+        "title": "The Art of Coding",
+        "posted_date": "2023-09-15",
+        "reading_time": "15 min",
+        "hashtags": ["#coding", "#programming", "#technology"]
+    },
+    {
+        "id": 2,
+        "author": "John Smith",
+        "author_img": "../src/assets/images/boy2.png",
+        "cover": "../src/assets/images/2.png",
+        "title": "Exploring the Universe",
+        "posted_date": "2023-08-22",
+        "reading_time": "20 min",
+        "hashtags": ["#space", "#science", "#exploration"]
+    },
+    {
+        "id": 3,
+        "author": "Emily Johnson",
+        "author_img": "../src/assets/images/girl1.jpg",
+        "cover": "../src/assets/images/3.png",
+        "title": "Healthy Living",
+        "posted_date": "2023-07-10",
+        "reading_time": "10 min",
+        "hashtags": ["#health", "#wellness", "#lifestyle"]
+    },
+    {
+        "id": 4,
+        "author": "Michael Brown",
+        "author_img": "../src/assets/images/girl2.jpg",
+        "cover": "../src/assets/images/4.jpg",
+        "title": "The Future of AI",
+        "posted_date": "2023-06-30",
+        "reading_time": "25 min",
+        "hashtags": ["#AI", "#future", "#innovation"]
+    }
+]
